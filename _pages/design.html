@@ -6,7 +6,7 @@ title: My Designs!
 
  <div class="post-list">
     {% for post in site.categories.design %}
-     <a href="{{ post.url | prepend: site.baseurl }}">
+     <a href="{{ post.url}}">
       {% include post-cards.html %}
       </a>
     {% endfor %}

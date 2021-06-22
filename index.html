@@ -7,7 +7,7 @@ menu: no
 <div class="home">
 <div class="post-list">
 {% for post in site.posts %}
-<a style="text-decoration:none"  href="{{ post.url | prepend: site.baseurl }}">
+<a style="text-decoration:none"  href="{{ post.url}}">
       {% include post-cards.html %}
 </a>
 {% endfor %}
