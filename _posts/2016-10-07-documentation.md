@@ -19,11 +19,10 @@ The theme uses a minimal layout for simplicity. Only the things that matter are 
 **Images:**
 
 Small images will be shown at their actual size.
-![small image]({{site.baseurl}}/images/ashwathama-1.jpg)
-
+![small image](../images/ashwathama-1.jpg)
 
 Large images will always scale down and fit in the content container.
-![large image]({{site.baseurl}}/images/lost-1.jpg)
+![large image](../images/lost-1.jpg)
 
 **Videos:**
 
@@ -40,16 +39,16 @@ The code is here
 {% raw %}{: .video}{% endraw %}
 {% endhighlight %}
 
-Take a look at [example post]({{site.baseurl}}/example/){: target="blank"} to check responsive nature of other elements.
+Take a look at [example post](../example/){: target="blank"} to check responsive nature of other elements.
 
 ### 20 Color Schemes (full version)!
 Customize the theme as you like by using color schemes!
 
 #### Purple
 
-![Purple jekyll theme]({{site.baseurl}}/images/Purple.png){: .shadow}
+![Purple jekyll theme](../images/Purple.png){: .shadow}
 
-Check [Color Schemes]({{site.baseurl}}/color-schemes/){: target="_blank"} for more.
+Check [Color Schemes](../color-schemes/){: target="_blank"} for more.
 
 
 ### Search Engine Optimized
@@ -81,10 +80,10 @@ Disqus is pre-installed in the theme. You can sign up with Disqus and change the
 Google analytics is also included in the theme. Just insert UA code in the configuration file. If left blank, the code will not run.
 
 ### Built-in Contact Form
-In the [contact]({{site.baseurl}}/contact/){: target="_blank"} page, a contact form is included by default. You can make it work by changing the simpleform-token which can be obtained for free from https://getsimpleform.com/
+In the [contact](../contact/){: target="_blank"} page, a contact form is included by default. You can make it work by changing the simpleform-token which can be obtained for free from https://getsimpleform.com/
 
 ### Syntax Highlighting
-Syntax highlighting is done by rouge. Check [example post]({{site.baseurl}}/example/){: target="_blank"}.
+Syntax highlighting is done by rouge. Check [example post](../example/){: target="_blank"}.
 
 ### Dynamic RSS Feed
 RSS feed is generated dynamically as and when you add posts and pages.

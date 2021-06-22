@@ -10,29 +10,29 @@ author: ashwathama
 Showing only a few here.
 
 ### Purple
-![Purple]({{site.baseurl}}/images/Purple.png){: .shadow}
+![Purple](../images/Purple.png){: .shadow}
 
 
 
 ### Blood
-![Blood]({{site.baseurl}}/images/Blood.png){: .shadow}
+![Blood](../images/Blood.png){: .shadow}
 
 
 
 ### Emerald
-![Emerald]({{site.baseurl}}/images/Emerald.png){: .shadow}
+![Emerald](../images/Emerald.png){: .shadow}
 
 
 
 ### Mango
-![Mango]({{site.baseurl}}/images/Mango.png){: .shadow}
+![Mango](../images/Mango.png){: .shadow}
 
 ### Turquoise
-![Turquoise]({{site.baseurl}}/images/Turquoise.png){: .shadow}
+![Turquoise](../images/Turquoise.png){: .shadow}
 
 
 ### Flower
-![Flower]({{site.baseurl}}/images/Flower.png){: .shadow}
+![Flower](../images/Flower.png){: .shadow}
 
 
 ## How to change color schemes
@@ -47,10 +47,9 @@ It can be done in the configuration file by changing a variable to yes or no.
 change-date-bg: no
 ```
 
-![Default]({{site.baseurl}}/images/Default.png){: .shadow}
+![Default](../images/Default.png){: .shadow}
 
-
-[Buy Full Version]({{site.baseurl}}/about/)
+[Buy Full Version](../about/)
 
 
 <style>.shadow{
