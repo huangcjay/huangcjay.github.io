@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /life/
+title: Life Experiences
+---
+
+ <div class="post-list">
+    {% for post in site.categories.general %}
+     <a href="{{ post.url}}">
+        {% include post-cards.html %}
+      </a>
+    {% endfor %}
+  </div>
